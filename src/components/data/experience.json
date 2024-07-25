@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "role": "Web Devloper",
+    "organisation": "TechnoGrowth Software Solution Pvt.Ltd. ",
+    "startDate": "5th May, 2021",
+    "endDate": "5th Aug,2021",
+    "location": "Remote,Pune,MH IN",
+    "experiences": [
+      "Collaborated with cross-functional teams to design and implement new features, improving user experience andimproving user experience and functionality"
+    ],
+    "imageSrc": "company/Picture.png"
+  }
+  
+]
+
+

@@ -1,0 +1,27 @@
+[
+  
+  {
+    "key": 5,
+    "title": "YouTube Clone",
+    "imageSrc": "/assets/projects/YT.png",
+    "description": "A YouTube clone built with React.",
+   
+    "source": "https://github.com/pushkarjambhulkar/YouTub_Clone"
+  },
+  {
+    "key": 6,
+    "title": "Chat App",
+    "imageSrc": "/assets/projects/chat.png",
+    "description": "A chat application built with React and Socket.io.",
+   
+    "source": "https://github.com/pushkarjambhulkar/Chat-App"
+  },
+  {
+    "key": 5,
+    "title": "Car Rental App",
+    "imageSrc": "/assets/projects/Car.png",
+    "description": "This is a car rental application made with MERN Stack.",
+    
+    "source": "https://github.com/shubhamsomwanshi11/Car-Rental-React"
+  }
+]
